@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LokoiNews</string>
+    <string name="home">home</string>
+    <string name="search">search</string>
+    <string name="profile">profile</string>
+    <string name="search_hint">Politics</string>
+</resources>
